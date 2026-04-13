@@ -6,12 +6,17 @@ The fans have two modes, one which uses thermisors as sensors and another mode w
 
 
 
+CAD Design
+
 <img width="1294" height="622" alt="image" src="https://github.com/user-attachments/assets/cf150534-ef35-41ad-8af2-3dd46da510ef" />
 
+
+Wiring Diagram
 
 <img width="1371" height="882" alt="image" src="https://github.com/user-attachments/assets/2ba693d0-b093-4d59-8cb1-aa872fc28c53" />
 
 
+BOM
 
 Item|Number|Price|Link
 ---|---|---|---
