@@ -1,22 +1,45 @@
-19" Rack mount cooling fans for my CQ20-B digital audio mixer, could be used for any rack mount cooling solution
+A custom-built 19" rack mount cooling solution designed for my CQ20-B digital audio mixer, but suitable for any rack-mounted equipment that needs better airflow.
 
-I made this as my mixer kept getting hot and to buy a rack mount fan set is verrrrry expensive so I decided to make my own
-
-The fans have two modes, one which uses thermisors as sensors and another mode which uses potentiometers to set the values, these modes are toggled between using a toggle switch on the centre plate
+Prebuilt rack cooling units can be surprisingly expensive, so this project focuses on a cost-effective, customizable alternative using readily available components.
 
 
+This project is a DIY rack-mounted fan system with dual operating modes:
 
-CAD Design
+Thermistor Mode (Automatic)
+
+  Fans adjust speed based on temperature readings.
+  
+Potentiometer Mode (Manual)
+
+  Fan speed is controlled manually via adjustable knobs.
+
+A toggle switch on the front panel allows you to switch between these two modes easily.
+
+
+**Features**
+
+Standard 19-inch rack mount form factor
+
+Dual control modes (auto + manual)
+
+Front-panel accessibility
+
+Modular and repairable design
+
+Budget-friendly compared to commercial units
+
+
+**CAD Design**
 
 <img width="1294" height="622" alt="image" src="https://github.com/user-attachments/assets/cf150534-ef35-41ad-8af2-3dd46da510ef" />
 
 
-Wiring Diagram
+**Wiring Diagram**
 
 <img width="1371" height="882" alt="image" src="https://github.com/user-attachments/assets/2ba693d0-b093-4d59-8cb1-aa872fc28c53" />
 
 
-BOM
+**BOM**
 
 Item|Number|Price|Link
 ---|---|---|---
